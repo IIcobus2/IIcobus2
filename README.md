@@ -2,15 +2,14 @@
 
 :octocat: Welcome to my Github profile. My name is Walter Felizardo and I'm 21 years old.
 
-<p> I'm a computing science student and I really like to spend my time coding. <samp></p> 
+<p> I'm a computing science student and one of the things that i really like is to spend my time coding. <samp></p>
 
-- 🚀 Currently studying Javascript, ReactJS, NodeJS and Salesforce; 
+- 🚀 Currently studying Javascript, ReactJS, NodeJS and Salesforce;
 - 👩🏻‍🎓 Development graduate and Computing Science graduation student at IFB;
 - 📚 Studying to work as a Fullstack Developer;
 - 🙋🏻 Interested in helping everyone who wants get into technology and development;
 - 💬 I'm open to talk about everything, feel free to start a talk with me.
 
-  
 <a href="https://github.com/IIcobus2">
   <img height="180em" align="center"  src="https://github-readme-stats.vercel.app/api?username=IIcobus2&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&layout=compact&)" />
 </a>
