@@ -14,9 +14,9 @@
   <img height="180em" align="center"  src="https://github-readme-stats.vercel.app/api?username=IIcobus2&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&layout=compact&)" />
 </a>
   
-<a href="https://github.com/IIcobus2">
+<!-- <a href="https://github.com/IIcobus2">
   <img height="180em" align="center" src="https://github-readme-stats-iicobus2.vercel.app/api/top-langs/?username=IIcobus2&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&)" />
-</a>
+</a> -->
 
 <br>
 
